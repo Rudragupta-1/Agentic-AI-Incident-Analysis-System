@@ -568,7 +568,3 @@ The Agentic AI Incident Analysis System is designed to demonstrate how Spring Bo
 It combines backend engineering, LLM tool calling, evidence collection, incident persistence, root cause reasoning, and operational safety into a practical software engineering project.
 
 The long-term objective is to help engineering teams move from manually investigating scattered operational signals toward faster, more consistent, and evidence-driven incident resolution.
-
----
-
-**Note:** This README describes the intended architecture and potential features. Update the implementation status, API contracts, configuration, and integrations to match the actual repository before presenting them as completed functionality.
